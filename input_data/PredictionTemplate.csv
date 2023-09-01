@@ -1,0 +1,2 @@
+num_workouts,day_since_last_workout,subjective_performance(t-1),multivitamin,workouts_last_7_days,num_workouts(t-1),subjective_performance
+0,1,2,0,5,0,0
